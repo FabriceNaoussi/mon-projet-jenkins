@@ -12,3 +12,4 @@ public class HelloResource {
         return "Hello, World!";
     }
 }
+//Fais un petit changement (ajoute un commentaire, par exemple).
